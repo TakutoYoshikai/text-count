@@ -1,0 +1,16 @@
+{
+  "name": "text-count",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "text-count": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
